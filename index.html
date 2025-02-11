@@ -1,29 +1,12 @@
 ---
 # front matter tells Jekyll to process Liquid
+layout: default
 title: w3craft
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    
-    <div>
-      <h1>{{Welcome to W3Craft Home Page | downcase }}</h1>
-    </div>
-    
-    <div>
-      <p>{% assign date = '2025-02-11T11:30:00Z' %}</p>
-      <p> - Original date - {{ date }}</p>
-      <p> - With timeago filter - {{ date | timeago }}</p>
-    </div>
-    
-  </body>
-</html>
+<h1>{{Welcome to W3Craft Home Page | downcase }}</h1>
+  
+{% assign date = '2025-02-11T11:30:00Z' %}
 
-
-
-
+<p> - Original date - {{ date }}</p>
+<p> - With timeago filter - {{ date | timeago }}</p>
