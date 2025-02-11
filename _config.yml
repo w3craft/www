@@ -1,7 +1,2 @@
 # Site settings
 title: "w3craft"
-
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
