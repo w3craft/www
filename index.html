@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>w3craft</title>
+  </head>
+  <body>
+    <h1>Welcome to W3Craft Home Page</h1>
+
+    <p>{% assign date = '2025-02-11T11:30:00Z' %}</p>
+    
+    <div>
+      <p> - Original date - {{ date }}</p>
+      <p> - With timeago filter - {{ date | timeago }}</p>
+    </div>
+  </body>
+</html>
+
+
+
+
