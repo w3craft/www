@@ -2,3 +2,15 @@
   link: /
 - name: About
   link: /about.html
+- name: Contacts
+  link: /contacts.html
+- name: Community
+  link: /community.html
+- name: Blog
+  link: https://blog.w3craft.ru
+- name: Docs
+  link: https://docs.w3craft.ru
+- name: Resources
+  link: https://resources.w3craft.ru
+- name: Showcase
+  link: https://showcase.w3craft.ru
