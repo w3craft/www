@@ -2,11 +2,14 @@
 layout: default
 title: w3craft
 ---
- {{ This is Home page }}
-<h2>Welcome to W3Craft Home Page</h2>
-<h1>{{ Welcome to W3Craft Home Page | downcase }}</h1>
+
+<dev>
+
+  <h2>Welcome to W3Craft Home Page</h2>
+  <h1>{{ Welcome to W3Craft Home Page | downcase }}</h1>
   
 {% assign date = '2024-02-11T11:30:00Z' %}
 
-<p> - Original date - {{ date }}</p>
-<p> - With timeago filter - {{ date | timeago }}</p>
+  <p> - Original date - {{ date }}</p>
+  <p> - With timeago filter - {{ date | timeago }}</p>
+</dev>
