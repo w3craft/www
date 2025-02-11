@@ -1,5 +1,6 @@
 # Site settings
 title: "w3craft"
+url: https://w3craft.github.io/website/
 
 # Conversion
 markdown: kramdown
