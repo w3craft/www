@@ -3,3 +3,4 @@ title: "w3craft"
 
 collections:
   authors:
+    output: true
