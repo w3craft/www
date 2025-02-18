@@ -6,5 +6,7 @@
   link: /blog
 - name: Staff
   link: /staff
+- name: Tags
+  link: /tags
 - name: Source
   link: https://github.com/w3craft/www
