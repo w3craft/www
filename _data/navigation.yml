@@ -3,6 +3,6 @@
 - name: About
   link: /about.html
 - name: Blog
-  link: https://blog.w3craft.ru
+  link: /blog.html
 - name: Source
   link: https://github.com/w3craft/www
