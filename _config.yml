@@ -38,6 +38,13 @@ defaults:
 baseurl: "" # the subpath of your site, e.g. /w3craft
 url: "https://w3craft.ru" # базовое имя хоста и протокол для вашего сайта, например, http://example.com
 copyright: © 2025
+
+header_pages:
+  - blog.html
+  - staf.html
+  - about.md
+
+
 plugins:
   - "jekyll-sitemap"
   - "jekyll-feed"
