@@ -20,7 +20,9 @@ defaults:
       path: ""
     values:
       layout: "default"
-      
+
+url: "https://w3craft.ru"
+
 plugins:
   - "jekyll-sitemap"
   - "jekyll-feed"
