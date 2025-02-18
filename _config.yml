@@ -1,2 +1,5 @@
 # Site settings
 title: "w3craft"
+
+collections:
+  authors:
