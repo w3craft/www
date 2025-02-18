@@ -2,4 +2,4 @@
 title: "w3craft"
 
 collections:
-  authors:
+  authors: true
