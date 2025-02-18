@@ -2,9 +2,8 @@
 title: "w3craft"
 
 collections:
-  blog:
-    authors:
-      output: true
+  authors:
+    output: true
 
 defaults:
   - scope:
